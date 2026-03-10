@@ -1,0 +1,6 @@
+{
+  "project_name": "MyJuliaProject",
+  "package_name": "{{ cookiecutter.project_name }}",
+  "description": "A Julia package developed with XP and AI agents",
+  "github_username": "yourusername"
+}
