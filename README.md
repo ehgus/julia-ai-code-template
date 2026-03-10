@@ -53,7 +53,6 @@ project-name/
 ├── .opencode/
 │   └── agents/                      # Specialized agent system prompts
 ├── PROGRESS.md                      # TODO tracking & current status
-├── CLAUDE.md                        # Project command center
 ├── AGENTS.md                        # General AI agent guidelines
 ├── iterations/                      # Short development cycles (XP iterations)
 ├── spikes/                          # Timeboxed research (XP practice)
