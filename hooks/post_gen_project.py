@@ -58,7 +58,7 @@ package_readme_content = f"""# {package_dir}
 
 Note: 🚧 This package is under active development. APIs may change without notice.
 
-{{{{ cookiecutter.description }}}}
+{{ cookiecutter.description }}
 
 ## Overview
 
@@ -70,7 +70,7 @@ This package is currently under development. You can install it using Julia's pa
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/{{{{ cookiecutter.github_username }}}}/{package_dir}")
+Pkg.add(url="https://github.com/{{ cookiecutter.github_username }}/{package_dir}")
 ```
 """
 
